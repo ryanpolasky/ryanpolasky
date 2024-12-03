@@ -13,7 +13,14 @@ I focus on developing user-friendly applications and ensuring smooth, efficient 
 - Designed and integrated web service workflows in AWS/GCP, optimizing performance and scalability, and implementing CI/CD pipelines for streamlined deployments
 - Utilized the MVVM architectural pattern to enhance the performance of an iOS log analysis application, enabling real-time display of thousands of events with minimal latency
 
-My goal is to create reliable solutions that fit the needs of the project while learning and growing as a software engineer!
+I'm always eager to connect, so feel free to reach me at ryanpolasky@hotmail.com or at my socials below!
+
+<div align="center">
+  <a href="mailto:ryanpolasky@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/ryan-polasky/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://www.instagram.com/ryanpolasky"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
+  <a href="https://ryanpolasky.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=black" /></a>
+</div>
 
 <br>
 
@@ -42,6 +49,7 @@ My goal is to create reliable solutions that fit the needs of the project while 
 
 ###### Database Management:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![OpenSearch/ElasticSearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)&nbsp;
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)&nbsp;
