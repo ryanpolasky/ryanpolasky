@@ -72,7 +72,7 @@ I'm always eager to connect, so feel free to reach me at ryanpolasky@hotmail.com
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 ###### League of Legends Rank from Self-Built API:
-![League of Legends](https://lol-stat-badges.onrender.com/badge/NA1/Commando/1441)&nbsp;
+![League of Legends](https://lol-stat-badges.onrender.com/badge/NA1/Eggo/WFLE)&nbsp;
 
 <br>
 
