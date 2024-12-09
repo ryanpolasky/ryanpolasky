@@ -73,6 +73,8 @@ I'm always eager to connect, so feel free to reach me at ryanpolasky@hotmail.com
 
 ###### League of Legends Rank from Self-Built API:
 ![League of Legends](https://lol-stat-badges.onrender.com/badge/NA1/Eggo/WFLE)&nbsp;
+![League of Legends](https://lol-stat-badges.onrender.com/badge/NA1/Eggo/WFLE?rank_name=true)&nbsp;
+
 
 <br>
 
