@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### *About Me*:
-Hey there! I'm Ryan Polasky, a junior software engineer & a third-year student at UT Dallas, graduating May 2026.
+Hey there! I'm Ryan Polasky, a junior software engineer & a fourth-year student at UT Dallas, graduating May 2026.
 
 I focus on developing user-friendly applications and ensuring smooth, efficient experiences. Most recently, I've had the opportunity to work with the Wireless Tech & Ecosystems team at Apple. While with this team, I:
 - Developed a large language model (LLM)-powered chat platform and Python package for automated generation of SQL and NoSQL queries from natural language inputs
