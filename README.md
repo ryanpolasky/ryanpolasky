@@ -7,11 +7,15 @@
 ### *About Me*:
 Hey there! I'm Ryan Polasky, a junior software engineer & a fourth-year student at UT Dallas, graduating May 2026.
 
-I focus on developing user-friendly applications and ensuring smooth, efficient experiences. Most recently, I've had the opportunity to work with the Wireless Tech & Ecosystems team at Apple. While with this team, I:
-- Developed a large language model (LLM)-powered chat platform and Python package for automated generation of SQL and NoSQL queries from natural language inputs
-- Migrated internal testing servers from Java 11 to JDK 21, ensuring successful compilation & resolution of various package vulnerabilities
-- Designed and integrated web service workflows in AWS/GCP, optimizing performance and scalability, and implementing CI/CD pipelines for streamlined deployments
-- Utilized the MVVM architectural pattern to enhance the performance of an iOS log analysis application, enabling real-time display of thousands of events with minimal latency
+I had an amazing opportunity to intern with a couple of incredible teams at Apple—Wireless Tech & Ecosystems and Camera API. My main goal was to make engineering workflows faster and more efficient, whether that meant using AI or just improving existing tools.
+
+Here’s a snapshot of what I worked on:
+
+🤖 Putting LLMs to work: I went deep on applying Large Language Models to real-world problems. I built a Python-based chat tool that writes SQL/NoSQL from plain English and also used LLMs to automate root-cause analysis for camera tests. The result was wild: I cut manual investigation time by 4,800%.
+
+🛠️ Java Migration: I got to migrate a bunch of internal servers from Java 11 to JDK 21 (squashing a ton of security vulnerabilities along the way) and set up CI/CD pipelines in AWS/GCP to make deployments way less stressful.
+
+💨 iOS App Optimization: There was an internal log analysis app that would grind to a halt with too much data, so I refactored it using the MVVM pattern, and got it to handle thousands of events in real-time with virtually no lag.
 
 I'm always eager to connect, so feel free to reach me at ryanpolasky@hotmail.com or at my socials below!
 
