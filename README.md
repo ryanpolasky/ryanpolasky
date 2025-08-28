@@ -7,15 +7,15 @@
 ### *About Me*:
 Hey there! I'm Ryan Polasky, a junior software engineer & a fourth-year student at UT Dallas, graduating May 2026.
 
-I had an amazing opportunity to intern with a couple of incredible teams at Apple—Wireless Tech & Ecosystems and Camera API. My main goal was to make engineering workflows faster and more efficient, whether that meant using AI or just improving existing tools.
+I had an amazing opportunity to intern with a couple of incredible teams at Apple, namely the Wireless Tech & Ecosystems team as well as Camera & Photos. My main goal was to make engineering workflows faster and more efficient, primarily using AI and improving existing tools.
 
-Here’s a snapshot of what I worked on:
+Some cool things I worked on include:
 
-🤖 Putting LLMs to work: I went deep on applying Large Language Models to real-world problems. I built a Python-based chat tool that writes SQL/NoSQL from plain English and also used LLMs to automate root-cause analysis for camera tests. The result was wild: I cut manual investigation time by 4,800%.
+- 🤖 Putting LLMs to work: On both teams I was the initial forawy into using Large Language Models to solve real-world problems. I built a Python-based chat tool that writes, executes, & summarizes results from SQL/NoSQL given plain English queries. I also used LLMs to automate root-cause analysis for camera tests. The result was wild: I cut manual investigation time by 4,800%.
 
-🛠️ Java Migration: I got to migrate a bunch of internal servers from Java 11 to JDK 21 (squashing a ton of security vulnerabilities along the way) and set up CI/CD pipelines in AWS/GCP to make deployments way less stressful.
+- 🛠️ Java Migration: I got to migrate a bunch of internal servers from Java 11 to JDK 21 (squashing a ton of security vulnerabilities along the way) and set up CI/CD pipelines in AWS/GCP to make deployments way less stressful.
 
-💨 iOS App Optimization: There was an internal log analysis app that would grind to a halt with too much data, so I refactored it using the MVVM pattern, and got it to handle thousands of events in real-time with virtually no lag.
+- 📱 iOS App Optimization: There was an internal log analysis app that needed a performant real-time log view screen, so I created one using the MVVM pattern and got it to handle thousands of events in real-time with virtually no lag (shoutout lazy updating).
 
 I'm always eager to connect, so feel free to reach me at ryanpolasky@hotmail.com or at my socials below!
 
