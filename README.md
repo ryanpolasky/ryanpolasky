@@ -98,7 +98,3 @@ I'm always eager to connect, so feel free to reach me at ryanpolasky@hotmail.com
 </table>
 </p>
 <br>
-
-***Profile Views***:
-
-<img alt="visitors counter" src="https://profile-counter.glitch.me/ryanpolasky/count.svg">
