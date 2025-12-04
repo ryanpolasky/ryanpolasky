@@ -87,11 +87,10 @@ I'm always eager to connect, so feel free to reach me at ryanpolasky@hotmail.com
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ryanpolasky&theme=nightowl&show_icons=true&count_private=true" />
-<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanpolasky&theme=nightowl&hide_border=false" alt="ryanpolasky streak" />
-</td> -->
+  <img src="https://raw.githubusercontent.com/ryanpolasky/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+</td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ryanpolasky&theme=nightowl&hide_border=false&langs_count=10"/>
+  <img src="https://raw.githubusercontent.com/ryanpolasky/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
 </td>
 </tr>
 </table>
