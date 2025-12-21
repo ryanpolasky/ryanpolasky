@@ -76,7 +76,7 @@ I'm always eager to connect, so feel free to reach me at ryanpolasky@hotmail.com
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 ###### League of Legends Rank from Self-Built API:
-![If you're reading this, Render caught me. I was using a CRON job on a 10 minute timer to keep my deployment active because it is meant to spin down when there's no activity for 15 minutes. Drats.](https://lol-stat-badges.onrender.com/badge/NA1/Eggo/WFLE)&nbsp;
+![Lol Stat Badges Example](https://api.ryanpolasky.com/lol/badge/NA1/Eggy/NEW)&nbsp;
 
 <br>
 
