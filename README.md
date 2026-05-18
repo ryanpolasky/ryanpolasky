@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### *About Me*:
-Hey there! I'm Ryan Polasky, a junior software engineer & a fourth-year student at UT Dallas, graduating May 2026.
+Hey there! I'm Ryan Polasky, a junior software engineer with a Bachelors of Science in Computer Science from UT Dallas ('26).
 
 I had an amazing opportunity to intern with a couple of incredible teams at Apple, namely the Wireless Tech & Ecosystems team as well as Camera & Photos. My main goal was to make engineering workflows faster and more efficient, primarily using AI and improving existing tools.
 
