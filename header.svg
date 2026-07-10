@@ -40,34 +40,30 @@
 
   <!-- Editor body -->
   <g class="cl0">
-    <text x="184" y="132" fill="#6a737d" text-anchor="end" font-size="12">1</text>
-    <g transform="translate(194 132)"><text x="0" fill="#d4d4d4">{</text></g>
+    <text x="184" y="143" fill="#6a737d" text-anchor="end" font-size="12">1</text>
+    <g transform="translate(194 143)"><text x="0" fill="#d4d4d4">{</text></g>
   </g>
   <g class="cl1">
-    <text x="184" y="154" fill="#6a737d" text-anchor="end" font-size="12">2</text>
-    <g transform="translate(194 154)"><text x="16.8" fill="#569cd6">&quot;name&quot;</text><text x="67.2" fill="#d4d4d4">:</text><text x="84" fill="#ce9178">&quot;Ryan Polasky&quot;</text><text x="201.60000000000002" fill="#d4d4d4">,</text></g>
+    <text x="184" y="165" fill="#6a737d" text-anchor="end" font-size="12">2</text>
+    <g transform="translate(194 165)"><text x="16.8" fill="#569cd6">&quot;name&quot;</text><text x="67.2" fill="#d4d4d4">:</text><text x="84" fill="#ce9178">&quot;Ryan Polasky&quot;</text><text x="201.60000000000002" fill="#d4d4d4">,</text></g>
   </g>
   <g class="cl2">
-    <text x="184" y="176" fill="#6a737d" text-anchor="end" font-size="12">3</text>
-    <g transform="translate(194 176)"><text x="16.8" fill="#569cd6">&quot;role&quot;</text><text x="67.2" fill="#d4d4d4">:</text><text x="84" fill="#ce9178">&quot;Software Engineer&quot;</text><text x="243.60000000000002" fill="#d4d4d4">,</text></g>
+    <text x="184" y="187" fill="#6a737d" text-anchor="end" font-size="12">3</text>
+    <g transform="translate(194 187)"><text x="16.8" fill="#569cd6">&quot;role&quot;</text><text x="67.2" fill="#d4d4d4">:</text><text x="84" fill="#ce9178">&quot;Software Engineer&quot;</text><text x="243.60000000000002" fill="#d4d4d4">,</text></g>
   </g>
   <g class="cl3">
-    <text x="184" y="198" fill="#6a737d" text-anchor="end" font-size="12">4</text>
-    <g transform="translate(194 198)"><text x="16.8" fill="#569cd6">&quot;org&quot;</text><text x="58.800000000000004" fill="#d4d4d4">:</text><text x="75.60000000000001" fill="#ce9178">&quot;Apple&quot;</text><text x="134.4" fill="#d4d4d4">,</text></g>
+    <text x="184" y="209" fill="#6a737d" text-anchor="end" font-size="12">4</text>
+    <g transform="translate(194 209)"><text x="16.8" fill="#569cd6">&quot;org&quot;</text><text x="58.800000000000004" fill="#d4d4d4">:</text><text x="75.60000000000001" fill="#ce9178">&quot;Apple&quot;</text><text x="134.4" fill="#d4d4d4">,</text></g>
   </g>
   <g class="cl4">
-    <text x="184" y="220" fill="#6a737d" text-anchor="end" font-size="12">5</text>
-    <g transform="translate(194 220)"><text x="16.8" fill="#569cd6">&quot;location&quot;</text><text x="100.80000000000001" fill="#d4d4d4">:</text><text x="117.60000000000001" fill="#ce9178">&quot;North Dakota&quot;</text><text x="235.20000000000002" fill="#d4d4d4">,</text></g>
+    <text x="184" y="231" fill="#6a737d" text-anchor="end" font-size="12">5</text>
+    <g transform="translate(194 231)"><text x="16.8" fill="#569cd6">&quot;location&quot;</text><text x="100.80000000000001" fill="#d4d4d4">:</text><text x="117.60000000000001" fill="#ce9178">&quot;California&quot;</text></g>
   </g>
   <g class="cl5">
-    <text x="184" y="242" fill="#6a737d" text-anchor="end" font-size="12">6</text>
-    <g transform="translate(194 242)"><text x="16.8" fill="#569cd6">&quot;tagline&quot;</text><text x="92.4" fill="#d4d4d4">:</text><text x="109.2" fill="#ce9178">&quot;I like building fun stuff :)&quot;</text></g>
-  </g>
-  <g class="cl6">
-    <text x="184" y="264" fill="#6a737d" text-anchor="end" font-size="12">7</text>
-    <g transform="translate(194 264)"><text x="0" fill="#d4d4d4">}</text></g>
+    <text x="184" y="253" fill="#6a737d" text-anchor="end" font-size="12">6</text>
+    <g transform="translate(194 253)"><text x="0" fill="#d4d4d4">}</text></g>
   </g>
 
   <!-- Blinking cursor at end of last value line -->
-  <rect x="555.2" y="230" width="2" height="17" fill="#d4d4d4" style="animation: blink 1s steps(1) infinite"/>
+  <rect x="412.4" y="219" width="2" height="17" fill="#d4d4d4" style="animation: blink 1s steps(1) infinite"/>
 </svg>

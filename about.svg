@@ -50,11 +50,11 @@
   </g>
   <g class="cl3">
     <text x="184" y="159" fill="#6a737d" text-anchor="end" font-size="12">4</text>
-    <g transform="translate(194 159)"><text x="0" fill="#ce9178">&gt;</text><text x="16.8" fill="#d4d4d4">Lately: agent observability, replayable runs, and the kind of</text></g>
+    <g transform="translate(194 159)"><text x="0" fill="#ce9178">&gt;</text><text x="16.8" fill="#d4d4d4">Lately, I&apos;ve been building tools for agent observability, replayable</text></g>
   </g>
   <g class="cl4">
     <text x="184" y="181" fill="#6a737d" text-anchor="end" font-size="12">5</text>
-    <g transform="translate(194 181)"><text x="0" fill="#ce9178">&gt;</text><text x="16.8" fill="#d4d4d4">tooling I wish existed when I started.</text></g>
+    <g transform="translate(194 181)"><text x="0" fill="#ce9178">&gt;</text><text x="16.8" fill="#d4d4d4">runs, and the kind of tooling I wish existed when I first started i…</text></g>
   </g>
   <g class="cl5">
     <text x="184" y="203" fill="#6a737d" text-anchor="end" font-size="12">6</text>
@@ -74,9 +74,9 @@
   </g>
   <g class="cl9">
     <text x="184" y="291" fill="#6a737d" text-anchor="end" font-size="12">10</text>
-    <g transform="translate(194 291)"><text x="0" fill="#d4d4d4">-</text><text x="16.8" fill="#d4d4d4">North Dakota</text></g>
+    <g transform="translate(194 291)"><text x="0" fill="#d4d4d4">-</text><text x="16.8" fill="#d4d4d4">California</text></g>
   </g>
 
   <!-- Blinking cursor at end of last non-blank line -->
-  <rect x="311.6" y="279" width="2" height="17" fill="#d4d4d4" style="animation: blink 1s steps(1) infinite"/>
+  <rect x="294.8" y="279" width="2" height="17" fill="#d4d4d4" style="animation: blink 1s steps(1) infinite"/>
 </svg>
