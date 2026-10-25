@@ -54,30 +54,26 @@
   </g>
   <g class="cl4">
     <text x="184" y="174" fill="#6a737d" text-anchor="end" font-size="12">5</text>
-    <g transform="translate(194 174)"><text x="0" xml:space="preserve" font-weight="400"><tspan fill="#ce9178">&gt; </tspan><tspan fill="#d4d4d4">runs, and the kind of tooling I wish existed when I first started in</tspan></text></g>
+    <g transform="translate(194 174)"><text x="0" xml:space="preserve" font-weight="400"><tspan fill="#ce9178">&gt; </tspan><tspan fill="#d4d4d4">runs, and the kind of tooling I wish existed when I first started.</tspan></text></g>
   </g>
   <g class="cl5">
     <text x="184" y="196" fill="#6a737d" text-anchor="end" font-size="12">6</text>
-    <g transform="translate(194 196)"><text x="0" xml:space="preserve" font-weight="400"><tspan fill="#ce9178">&gt; </tspan><tspan fill="#d4d4d4">iOS.</tspan></text></g>
+    
   </g>
   <g class="cl6">
     <text x="184" y="218" fill="#6a737d" text-anchor="end" font-size="12">7</text>
-    
+    <g transform="translate(194 218)"><text x="0" xml:space="preserve" font-weight="600"><tspan fill="#569cd6">## </tspan><tspan fill="#d4d4d4">tags</tspan></text></g>
   </g>
   <g class="cl7">
     <text x="184" y="240" fill="#6a737d" text-anchor="end" font-size="12">8</text>
-    <g transform="translate(194 240)"><text x="0" xml:space="preserve" font-weight="600"><tspan fill="#569cd6">## </tspan><tspan fill="#d4d4d4">tags</tspan></text></g>
+    <g transform="translate(194 240)"><text x="0" xml:space="preserve" font-weight="400"><tspan fill="#d4d4d4">- </tspan><tspan fill="#d4d4d4">Software Engineer</tspan></text></g>
   </g>
   <g class="cl8">
     <text x="184" y="262" fill="#6a737d" text-anchor="end" font-size="12">9</text>
-    <g transform="translate(194 262)"><text x="0" xml:space="preserve" font-weight="400"><tspan fill="#d4d4d4">- </tspan><tspan fill="#d4d4d4">Software Engineer</tspan></text></g>
+    <g transform="translate(194 262)"><text x="0" xml:space="preserve" font-weight="400"><tspan fill="#d4d4d4">- </tspan><tspan fill="#d4d4d4">Apple</tspan></text></g>
   </g>
   <g class="cl9">
     <text x="184" y="284" fill="#6a737d" text-anchor="end" font-size="12">10</text>
-    <g transform="translate(194 284)"><text x="0" xml:space="preserve" font-weight="400"><tspan fill="#d4d4d4">- </tspan><tspan fill="#d4d4d4">Apple</tspan></text></g>
-  </g>
-  <g class="cl10">
-    <text x="184" y="306" fill="#6a737d" text-anchor="end" font-size="12">11</text>
-    <g transform="translate(194 306)"><text x="0" xml:space="preserve" font-weight="400"><tspan fill="#d4d4d4">- </tspan><tspan fill="#d4d4d4">California</tspan><tspan dx="-0.15em" fill="#d4d4d4" font-weight="700" style="animation: blink 1s steps(1) infinite">|</tspan></text></g>
+    <g transform="translate(194 284)"><text x="0" xml:space="preserve" font-weight="400"><tspan fill="#d4d4d4">- </tspan><tspan fill="#d4d4d4">California</tspan><tspan dx="-0.15em" fill="#d4d4d4" font-weight="700" style="animation: blink 1s steps(1) infinite">|</tspan></text></g>
   </g>
 </svg>
