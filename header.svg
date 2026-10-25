@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" font-size="14">
   <style>
-    text { font-family: ui-monospace, "JetBrains Mono", "SF Mono", Menlo, Consolas, monospace; font-size: 14px; dominant-baseline: middle; }
+    text { font-family: ui-monospace, "JetBrains Mono", "SF Mono", Menlo, Consolas, monospace; dominant-baseline: middle; }
     
     @keyframes blink { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
     
@@ -40,30 +40,28 @@
 
   <!-- Editor body -->
   <g class="cl0">
-    <text x="184" y="143" fill="#6a737d" text-anchor="end" font-size="12">1</text>
-    <g transform="translate(194 143)"><text x="0" fill="#d4d4d4">{</text></g>
+    <text x="184" y="86" fill="#6a737d" text-anchor="end" font-size="12">1</text>
+    <g transform="translate(194 86)"><text x="0" fill="#d4d4d4">{</text></g>
   </g>
   <g class="cl1">
-    <text x="184" y="165" fill="#6a737d" text-anchor="end" font-size="12">2</text>
-    <g transform="translate(194 165)"><text x="16.8" fill="#569cd6">&quot;name&quot;</text><text x="67.2" fill="#d4d4d4">:</text><text x="84" fill="#ce9178">&quot;Ryan Polasky&quot;</text><text x="201.60000000000002" fill="#d4d4d4">,</text></g>
+    <text x="184" y="108" fill="#6a737d" text-anchor="end" font-size="12">2</text>
+    <g transform="translate(194 108)"><text x="0" xml:space="preserve"><tspan fill="#d4d4d4">  </tspan><tspan fill="#569cd6">&quot;name&quot;</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#ce9178">&quot;Ryan Polasky&quot;</tspan><tspan fill="#d4d4d4">,</tspan></text></g>
   </g>
   <g class="cl2">
-    <text x="184" y="187" fill="#6a737d" text-anchor="end" font-size="12">3</text>
-    <g transform="translate(194 187)"><text x="16.8" fill="#569cd6">&quot;role&quot;</text><text x="67.2" fill="#d4d4d4">:</text><text x="84" fill="#ce9178">&quot;Software Engineer&quot;</text><text x="243.60000000000002" fill="#d4d4d4">,</text></g>
+    <text x="184" y="130" fill="#6a737d" text-anchor="end" font-size="12">3</text>
+    <g transform="translate(194 130)"><text x="0" xml:space="preserve"><tspan fill="#d4d4d4">  </tspan><tspan fill="#569cd6">&quot;role&quot;</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#ce9178">&quot;Software Engineer&quot;</tspan><tspan fill="#d4d4d4">,</tspan></text></g>
   </g>
   <g class="cl3">
-    <text x="184" y="209" fill="#6a737d" text-anchor="end" font-size="12">4</text>
-    <g transform="translate(194 209)"><text x="16.8" fill="#569cd6">&quot;org&quot;</text><text x="58.800000000000004" fill="#d4d4d4">:</text><text x="75.60000000000001" fill="#ce9178">&quot;Apple&quot;</text><text x="134.4" fill="#d4d4d4">,</text></g>
+    <text x="184" y="152" fill="#6a737d" text-anchor="end" font-size="12">4</text>
+    <g transform="translate(194 152)"><text x="0" xml:space="preserve"><tspan fill="#d4d4d4">  </tspan><tspan fill="#569cd6">&quot;org&quot;</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#ce9178">&quot;Apple&quot;</tspan><tspan fill="#d4d4d4">,</tspan></text></g>
   </g>
   <g class="cl4">
-    <text x="184" y="231" fill="#6a737d" text-anchor="end" font-size="12">5</text>
-    <g transform="translate(194 231)"><text x="16.8" fill="#569cd6">&quot;location&quot;</text><text x="100.80000000000001" fill="#d4d4d4">:</text><text x="117.60000000000001" fill="#ce9178">&quot;California&quot;</text></g>
+    <text x="184" y="174" fill="#6a737d" text-anchor="end" font-size="12">5</text>
+    <g transform="translate(194 174)"><text x="0" xml:space="preserve"><tspan fill="#d4d4d4">  </tspan><tspan fill="#569cd6">&quot;location&quot;</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#ce9178">&quot;California&quot;</tspan><tspan dx="-0.15em" fill="#d4d4d4" font-weight="700" style="animation: blink 1s steps(1) infinite">|</tspan></text></g>
   </g>
   <g class="cl5">
-    <text x="184" y="253" fill="#6a737d" text-anchor="end" font-size="12">6</text>
-    <g transform="translate(194 253)"><text x="0" fill="#d4d4d4">}</text></g>
+    <text x="184" y="196" fill="#6a737d" text-anchor="end" font-size="12">6</text>
+    <g transform="translate(194 196)"><text x="0" fill="#d4d4d4">}</text></g>
   </g>
 
-  <!-- Blinking cursor at end of last value line -->
-  <rect x="412.4" y="219" width="2" height="17" fill="#d4d4d4" style="animation: blink 1s steps(1) infinite"/>
 </svg>
